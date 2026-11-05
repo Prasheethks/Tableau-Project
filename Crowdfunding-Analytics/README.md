@@ -19,7 +19,7 @@ An interactive Tableau dashboard developed to analyze crowdfunding campaign perf
 
 ## Dashboard Preview
 
-![Crowdfunding Campaign Dashboard](Crowdfunding.png)
+<img width="1560" height="792" alt="Crowdfunding" src="https://github.com/user-attachments/assets/3cbf1674-dfac-419b-9b24-45a9e1b8eb02" />
 
 ## Key Skills Demonstrated
 Data Analysis | Dashboard Development | KPI Tracking | Trend Analysis | Business Insights
